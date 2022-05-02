@@ -1,0 +1,23 @@
+---
+description: ''
+featured_image: /images/bull_046055.jpeg
+menu:
+  main:
+    weight: 1
+title: Publications
+---
+Published
+
+1. Kayser, William W. C., G.E. Carstens, **I.L. Parsons** , K.E. Washburn, S.D. Lawdon, W.E. Pinchak, E. Chevaux, and A.L. 2020. Skidmore. Efficacy of statistical process control procedures to identify deviations in continuously measured physiologic and behavioral variables in beef steers experimentally challenged with _Mannheimia haemolytica_. Journal of Animal Science. 2020 98:1-11
+
+2. **Parsons, I.L.** , J.R. Johnson, W.C. Kayser, and G.E. Carstens. 2019. Characterization of feeding behavior traits in steers with divergent residual feed intake consuming a high-grain diet. Journal of Animal Science. 2019 98:1-9
+
+3. Kayser, W.C., G.E. Carstens, **I.L. Parsons** , T.H. Welsh, K.E. Washburn, S.D. Lawhon, W.E. Pinchak, J.T. Richeson, E. Chevaux, and A.L. Skidmore. 2019. Effects of Mannheimia haemolytica challenge with or without supplementation of Saccharomyces cerevisiae boulardii_ strain CNCM I1079 on immune up regulation and behavior in beef steers. Journal of Animal Science. 2019 97:596-609
+
+In Review
+
+1. **Parsons, I.L.** , Melanie M.R. Boudreau, Brandi B.B. Karisch, Amanda A.E. Stone, Durham D. Norman, Stephen S.L. Webb, Kristine K.O. Evans, and Garrett G.M. Street. Aiming for the optimum: examining complex relationships between sampling regime, sampling density, and landscape heterogeneity to accurately model resource availability. Submitted to Journal of Landscape Ecology. 2021. _In review._
+
+In Preparation (full draft available)
+
+1. **Parsons, I.L.**, Brandi B. Karisch, Stephen L. Webb, Amanda E. Stone, Mike Proctor, Ryan Hicks, Garrett M. Street. Automated walk-over-weigh system: methods to track daily body mass and growth in grazing steers. – _Under collaborator Review_

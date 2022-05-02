@@ -1,5 +1,5 @@
 ---
-description: Growing up on the family farm in Kansas, I developed a love for animals and passion for learning. Hunting and fishing with friends is a favorite pastime, second only to raising livestock.
+description: He makes grass grow for cattle, and plants for people to cultivate - bringing forth food from the earth: wine gladdens human hearts, oil makes their faces shine, and bread sustains their hearts. _Psalms 104:14-15_
 featured_image: /images/cattlenose.png
 menu:
   main:

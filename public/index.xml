@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ira L. Parsons</title>
+    <title>Ira Parsons</title>
     <link>https://iraparsons.com/</link>
-    <description>Recent content on Ira L. Parsons</description>
+    <description>Recent content on Ira Parsons</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://iraparsons.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iraparsons.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://iraparsons.com/blogs/2022-05-01-/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iraparsons.com/blogs/2022-05-01-/</guid>
+      <description>  </description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://iraparsons.com/about/</link>
@@ -28,6 +38,32 @@ Mississippi State University
 775 Stone Blvd
 Mississippi State University, MS 39762
 ilp28@msstate.edu</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://iraparsons.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iraparsons.com/cv/</guid>
+      <description>Ira Lloyd Parsons Mississippi State University, Thomson Hall · Mississippi State, MS 39762 · 913-565-0896 · ilp28@msstate.edu
+Education
+Doctor of Philosophy in Forest Resources, Mississippi State University December 2022
+concentration: Wildlife, Fisheries and Aquaculture, GPA 4.00
+Mississippi State University, Mississippi State, Mississippi, 39762
+Dissertation Title: Animal Husbandry in the 21 st Century: Understanding beef cattle grazing systems ecology using precision technology_
+Chapters: Thesis Objective: Demonstrate prospective uses of tracking collars and accelerometers to study fine-scale movement and behaviors related to animal cattle growth/production, energy expenditure, and pasture space use given landscape resource distribution.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://iraparsons.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iraparsons.com/publications/</guid>
+      <description>Published
+Kayser, William W. C., G.E. Carstens, I.L. Parsons , K.E. Washburn, S.D. Lawdon, W.E. Pinchak, E. Chevaux, and A.L. 2020. Skidmore. Efficacy of statistical process control procedures to identify deviations in continuously measured physiologic and behavioral variables in beef steers experimentally challenged with Mannheimia haemolytica. Journal of Animal Science. 2020 98:1-11
+ Parsons, I.L. , J.R. Johnson, W.C. Kayser, and G.E. Carstens. 2019. Characterization of feeding behavior traits in steers with divergent residual feed intake consuming a high-grain diet.</description>
     </item>
     
   </channel>
