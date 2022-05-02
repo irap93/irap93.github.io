@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ira L. Parsons</title>
+    <link>https://iraparsons.com/blog/</link>
+    <description>Recent content in Blogs on Ira L. Parsons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iraparsons.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First blog post</title>
+      <link>https://iraparsons.com/blog/2022-05-01-first-blog-post/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iraparsons.com/blog/2022-05-01-first-blog-post/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+---
+title: 'Ira L. Parsons'
+---
+
+<img src="files/header.jpg" style="width:100%">
+
