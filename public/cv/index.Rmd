@@ -1,10 +1,10 @@
 ---
 description: ''
-featured_image: /images/Ira_profile.png
+featured_image: /images/cattle_noblesunset.png
 menu:
   main:
     weight: 1
-title: CV
+title: 'CV'
 ---
 
 # **Ira Lloyd Parsons**
