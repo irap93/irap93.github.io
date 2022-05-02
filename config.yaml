@@ -10,13 +10,9 @@ googleAnalytics: ''
 enableRobotsTXT: yes
 languages:
   en:
-    contentDir: content/en
+    contentDir: content
     title: Ira Parsons
     weight: 1
-  #fr: # Alternative languages
-    #contentDir: content/fr
-    #title: Ananke Fr
-    #weight: 2
 sitemap:
   changefreq: monthly
   filename: sitemap.xml

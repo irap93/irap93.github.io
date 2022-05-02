@@ -1,0 +1,18 @@
+---
+description: We'd love to hear from you
+featured_image: /images/MSU_logo.jpeg
+menu: main
+omit_header_text: True
+title: Contact
+type: page
+---
+
+Ira L. Parsons
+
+Quantitative Ecology and Spatial Technologies Laboratory  
+Department of Wildlife, Fisheries, and Aquaculture  
+Mississippi State University  
+775 Stone Blvd  
+Mississippi State University, MS 39762
+
+ilp28@msstate.edu

@@ -1,6 +1,5 @@
 ---
-title: 'Ira L. Parsons'
+site: blogdown:::blogdown_site
 ---
 
-<img src="files/header.jpg" style="width:100%">
-
+<!-- This file is for blogdown only. Please do not edit it. -->
