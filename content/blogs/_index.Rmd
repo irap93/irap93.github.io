@@ -1,0 +1,4 @@
+---
+featured_image: /images/North_hill.jpeg
+title: Blogs
+---
