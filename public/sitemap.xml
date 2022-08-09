@@ -31,7 +31,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://iraparsons.com/current-research/wow/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://iraparsons.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://iraparsons.com/current-research/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://iraparsons.com/current-research/landscape-sampling/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
