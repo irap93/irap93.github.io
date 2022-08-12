@@ -1,4 +1,4 @@
 ---
 featured_image: /images/drone.jpeg
-title: Current Research
+title: Research
 ---
