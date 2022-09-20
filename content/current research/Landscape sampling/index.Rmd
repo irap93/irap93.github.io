@@ -1,5 +1,5 @@
 ---
-title: Examining the relationship between sampling strategy, sample density, and interpolation strategy on mapping accuracy
+title: "Aiming for the optimum: Examining complex relationships among sampling regime, sampling density and landscape complexity to accurately model resource availability"
 description: ''
 featured_image: 'samplingloc.png'
 ---

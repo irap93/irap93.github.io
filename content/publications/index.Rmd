@@ -8,7 +8,7 @@ title: Publications
 ---
 Published
 
-1. **Parsons, I.L.** , Melanie M.R. Boudreau, Brandi B.B. Karisch, Amanda A.E. Stone, Durham D. Norman, Stephen S.L. Webb, Kristine K.O. Evans, and Garrett G.M. Street. Aiming for the optimum: examining complex relationships between sampling regime, sampling density, and landscape heterogeneity to accurately model resource availability. Submitted to Journal of Landscape Ecology. 2021. DOI: https://doi.org/10.21203/rs.3.rs-1005366/v1 _In review._
+1. **Parsons, I. L.**, Boudreau, M. R., Karisch, B. B., Stone, A. E., Norman, D. A., Webb, S. L., Evans, K. O., & Street, G. M. (2022). Aiming for the optimum: Examining complex relationships among sampling regime, sampling density and landscape complexity to accurately model resource availability. Landscape Ecology. https://doi.org/10.1007/s10980-022-01523-8 
 
 2. Kayser, William W. C., G.E. Carstens, **I.L. Parsons** , K.E. Washburn, S.D. Lawdon, W.E. Pinchak, E. Chevaux, and A.L. 2020. Skidmore. Efficacy of statistical process control procedures to identify deviations in continuously measured physiologic and behavioral variables in beef steers experimentally challenged with _Mannheimia haemolytica_. Journal of Animal Science. 2020 98:1-11 DOI: https://doi.org/10.1093/jas/skab232
 
