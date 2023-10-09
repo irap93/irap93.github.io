@@ -1,4 +1,0 @@
----
-featured_image: /images/drone.jpeg
-title: Research
----

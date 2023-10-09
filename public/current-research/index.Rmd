@@ -1,8 +1,0 @@
----
-description: ''
-featured_image: 'drone.jpeg'
-menu:
-  main:
-    weight: 1
-title: Current Research
----
