@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "page"
 title: Curriculum Vitae
 category: CV
 permalink: /CV
@@ -7,20 +7,22 @@ permalink: /CV
 Ira L. Parsons 	Professional Resume/CV 
 
 # Education
-Doctor of Philosophy in Forest Resources, Mississippi State University	December 2022  
+![](assets/img/Msstate.png){:height="36px" width="50px"} Doctor of Philosophy in Forest Resources, Mississippi State University  
+December 2022  
 concentration: Wildlife, Fisheries and Aquaculture, GPA 3.76	
 Dissertation: Animal husbandry in the 21st Century: Application of ecological theory and precision technology to inform understanding of modern livestock grazing systems   
 Objective: Demonstrate prospective uses of tracking collars and accelerometers to study fine-scale movement and behavior related to cattle growth/production, energy expenditure, and pasture space use.  
 
-Master of Science in Animal Science, Texas A&M University 	May 2018
+![](assets/img/TAMU.png){:height="36px" width="50px"} Master of Science in Animal Science, Texas A&M University 	May 2018
 GPA 3.24
 Thesis: Prediction of feed intake and feed efficiency in feedlot steers 
 based on phenotypic associations with feeding behavior and carcass ultrasound traits
 
-Bachelor of Science in Grain Science and Industry	August 2015
+![](assets/img/Powercat.jpeg){:height="40px" width="50px"}Bachelor of Science in Grain Science and Industry	August 2015
 Conc. Feed Science and Management	 
 Kansas State University
-GPA: 3.67, Major: GPA: 3.78
+GPA: 3.67, Major: GPA: 3.78  
+
 # Certifications
 •	ARPAS certified in beef cattle production  
 •	FAA Unmanned Aircraft Pilot  
