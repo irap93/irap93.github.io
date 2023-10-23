@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: "post"
 title: "About the Author"
 author: "Ira Parsons"
-categories: facts
+categories: about
 tags: [people]
 image: Ira_profile.jpg
 ---
