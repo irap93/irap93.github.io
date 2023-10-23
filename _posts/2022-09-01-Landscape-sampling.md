@@ -1,5 +1,10 @@
 ---
-title: Examining the relationship between sampling strategy, sample density, and interpolation strategy on mapping accuracy
+layout: "post"
+title: "Examining the relationship between sampling strategy, sample density, and interpolation strategy on mapping accuracy"
+author: "Ira Parsons"
+categories: research
+tags: [research, sampling, landscapes]
+image: samplingloc.png
 ---
 Obtaining accurate and precise maps of landscape features often requires intensive spatial sampling and interpolation. 
 The data required to generate reliable interpolated maps varies with sampling density and landscape heterogeneity. 

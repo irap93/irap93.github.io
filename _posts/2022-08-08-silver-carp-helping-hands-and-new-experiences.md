@@ -1,11 +1,12 @@
 ---
 layout: "category"
 title: "Silver carp: Helping hands and new experiences"
-date: 2022-08-08
+author: "Ira Parsons"
+categories: research
+tags: [research, fish, animal movement]
+image: 20220807_070415.jpg
 ---
 Lending a helping hand to fellow grad students is perhaps the most rewarding and enjoyable educational activities which graduate students can partake in. Benefits are two-fold. First, you gain the satisfactory feeling that comes from helping out a fellow student and friend while also learning something more about a part of science and nature which heretofore you knew absolutely nothing about. And all at zero cost, no stress, good comradeship and potentially free food. This past weekend, I had the opportunity helping a fellow student track Silver Carp (*Hypophthalmichthys molitrix*) within the lower reaches of the Yazzoo river system. As a Kansan unfamiliar with the ways of boats, big murky water, and muddy rivers, it was certainly an experience. And even though these invasive fish are known to exist throughout the Mississippi River drainage system, an area which includes the lower reaches of the Kansas river, I had personally never experienced the fish before, a fact which only served to intensify my intrigue. 
-
-![The Yazoo River provided a great deal of scenery and entertainment during the course of our day, which we could readily survey from the middle of the river in our john boat.](images/20220807_070415.jpg)
 
 The river experience began like something straight out of a National Geographic nature documentary. Numerous times I wished I had a way of safely bringing along my camera and lens to photograph the white egrets (*Ardea alba*) who were frequently observed stalking the banks, or the quick moving birds of various types who often stood in stark contrast along the banks where the glass smooth water met the vibrant green contrast of the grassy banks. Our primary purpose that day was to download data and active track fish previously tagged with acoustic transponders to identify their geo-location, which could then be used to map their use of the sprawling water system. The active tracker utilizes an underwater microphone system designed to detect the low frequency noises emitted by the active acoustic transponders inserted into the body cavity of tagged fish, and necessitates traveling no more than 5 - 7 miles an hour. This provided the perfect opportunity to observe nature and fish in all of their glory.
 
