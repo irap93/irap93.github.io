@@ -1,5 +1,5 @@
 ---
-layout: "category"
+layout: "post"
 title: "Silver carp: Helping hands and new experiences"
 author: "Ira Parsons"
 categories: research
