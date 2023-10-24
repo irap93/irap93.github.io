@@ -2,7 +2,7 @@
 layout: "post"
 title: "Silver carp: Helping hands and new experiences"
 author: "Ira Parsons"
-categories: research
+categories: blog
 tags: [research, fish, animal movement]
 image: 20220807_070415.jpg
 ---
