@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Ira Parsons</title>
+		<description>A grazing ecologists using precision livestock technology, metabolic theory, and data science to improve efficiency in extensive landscapes</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>About the Author</title>
+				
+					<dc:creator>Ira Parsons</dc:creator>
+				
+				
+					<description>&lt;p&gt;Ira Parsons is a post-doctoral research associate with the Animal Science Department at South Dakota State University. Growing up on the family ranch in Northeast Kansas, Ira was active in 4-H and FFA, where he developed love for animals and passion for learning through livestock projects and judging team competitions. He earned a bachelors in Feed Science and Management from Kansas State University before pursuing a Masters in Animal Science from Texas A&amp;amp;M University, with a concentration in Ruminant Nutrition. His doctorate work focused on utilizing advanced biometric, remote sensing, and modeling methods to study livestock grazing systems, earning a PhD in Forest Resources with a Concentration in Wildlife, Fisheries and Aquaculture. Currently, Ira works with a diverse team with broad interest in rangeland ecology, animal science, and systems dynamics with a specific focus to employing precision livestock technology to monitor and improve beef cattle production efficiency through research and extension programs in the Northern Great Plains.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 23 Oct 2023 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/about-the-author</link>
+				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
+			</item>
+		
+			<item>
+				<title>Wow</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sat, 01 Jul 2023 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/WOW</link>
+				<guid isPermaLink="true">http://localhost:4000/WOW</guid>
+			</item>
+		
+			<item>
+				<title>Examining the relationship between sampling strategy, sample density, and interpolation strategy on mapping accuracy</title>
+				
+					<dc:creator>Ira Parsons</dc:creator>
+				
+				
+					<description>&lt;p&gt;Obtaining accurate and precise maps of landscape features often requires intensive spatial sampling and interpolation. 
+The data required to generate reliable interpolated maps varies with sampling density and landscape heterogeneity. 
+However, there has been no rigorous examination of sampling density relative to landscape characteristics and interpolation methods. Our objective was to characterize the 3-way relationship among sampling density, interpolation method, and landscape heterogeneity on interpolation accuracy and precision in simulated and in situ landscapes. We simulated landscapes of variable heterogeneity and sampled at increasing densities using gridded and random strategies. We applied three local interpolation methods (i.e., Inverse Distance Weighting, Universal Kriging, and Nearest Neighbor) to the sampled data and estimated accuracy (slope and intercept) and precision (R2) between interpolated surfaces and the original surface. Finally, we applied these analyses to in situ data using a normalized difference vegetation index raster collected from pasture with various resolutions. In our simulations, all interpolation methods and sampling strategies yielded similar accuracy and precision except in the case of Universal Kriging with random sampling. Additionally, low heterogeneity and increasing sample density improved both accuracy and precision, with cross-validation slopes and R2 values approaching optimal values. In situ analysis demonstrated that heterogeneity decreased with resolution. Nearest Neighbor under both sampling strategies and Universal Kriging using the gridded sampling strategy had the highest accuracy and precision. Decreased heterogeneity and increased sampling density improved accuracy and precision for all combinations of interpolation method and sampling strategies. Heterogeneity of the  landscape is a major influence on the accuracy and precision of interpolated maps. There is a need to create structured tools to aid in determining sampling design most appropriate for interpolation methods across landscapes of various heterogeneity.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Sep 2022 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/Landscape-sampling</link>
+				<guid isPermaLink="true">http://localhost:4000/Landscape-sampling</guid>
+			</item>
+		
+			<item>
+				<title>Silver carp: Helping hands and new experiences</title>
+				
+					<dc:creator>Ira Parsons</dc:creator>
+				
+				
+					<description>&lt;p&gt;Lending a helping hand to fellow grad students is perhaps the most rewarding and enjoyable educational activities which graduate students can partake in. Benefits are two-fold. First, you gain the satisfactory feeling that comes from helping out a fellow student and friend while also learning something more about a part of science and nature which heretofore you knew absolutely nothing about. And all at zero cost, no stress, good comradeship and potentially free food. This past weekend, I had the opportunity helping a fellow student track Silver Carp (&lt;em&gt;Hypophthalmichthys molitrix&lt;/em&gt;) within the lower reaches of the Yazzoo river system. As a Kansan unfamiliar with the ways of boats, big murky water, and muddy rivers, it was certainly an experience. And even though these invasive fish are known to exist throughout the Mississippi River drainage system, an area which includes the lower reaches of the Kansas river, I had personally never experienced the fish before, a fact which only served to intensify my intrigue.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 08 Aug 2022 00:00:00 -0600</pubDate>
+				<link>http://localhost:4000/silver-carp-helping-hands-and-new-experiences</link>
+				<guid isPermaLink="true">http://localhost:4000/silver-carp-helping-hands-and-new-experiences</guid>
+			</item>
+		
+	</channel>
+</rss>
