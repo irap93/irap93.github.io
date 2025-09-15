@@ -9,8 +9,9 @@ google-ID: 'G-C52R3XCF4V'
 menu:
 - {name: 'Research',  url: 'research'}
 - {name: 'Blog',       url: 'blog'}
-- {name: 'About',      url: 'about'}
 - {name: 'CV',         url: 'CV'}
+- {name: 'Quantitative Thinking', url: 'FundQuantitativeMethods'}
+- {name: 'About',      url: 'about'}
 # - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Contact',    url: 'contact'}
 
